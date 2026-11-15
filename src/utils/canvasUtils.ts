@@ -77,7 +77,7 @@ export async function downloadFile(
   try {
     const headers: Record<string, string> = {
       "User-Agent":
-        "QuotedMatrix/1.0 (+https://github.com/Vadim-Khristenko/quoted-matrix)",
+        "QuotedMatrix/1.0 (+https://github.com/VAIPROG/quoted-matrix)",
       Accept:
         "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
     };

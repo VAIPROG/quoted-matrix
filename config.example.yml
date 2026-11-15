@@ -10,7 +10,7 @@ commands:
   help: "help"
 
 helpText: 'Reply with <b>..q</b> to any message to create a sticker! Use <b>..q 1</b> to include 1 next message, etc...'
-welcomeText: 'Hello, I am <b>Quoted</b>, a bot for creating stickers of messages. See <b>..help</b> for help. Source code is available on <a href="https://github.com/Vadim-Khristenko/quoted-matrix">GitHub</a>.'
+welcomeText: 'Hello, I am <b>Quoted</b>, a bot for creating stickers of messages. See <b>..help</b> for help. Source code is available on <a href="https://github.com/VAIPROG/quoted-matrix">GitHub</a>.'
 
 # Logging
 logLevel: info  # debug | info | warn | error

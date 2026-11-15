@@ -2,7 +2,7 @@
 
 **Quoted** is a Matrix bot that turns messages into beautiful stickers — with sticker / custom-emoji rendering, file-attachment cards, full Unicode fonts, and animated-sticker output.
 
-Originally by [rustyraven](https://github.com/ryotairi/quoted), enhanced by [Vadim-Khristenko](https://github.com/Vadim-Khristenko/quoted-matrix).
+Originally by [rustyraven](https://github.com/ryotairi/quoted), enhanced by [VAIPROG](https://github.com/VAIPROG/quoted-matrix).
 
 ## Features
 - Quote one or many Matrix messages into a single sticker image
@@ -55,7 +55,7 @@ If a quoted attachment can't be fetched (e.g. server retention deleted it), the 
 ## Setting up (Bun)
 
 ```bash
-git clone https://github.com/Vadim-Khristenko/quoted-matrix.git
+git clone https://github.com/VAIPROG/quoted-matrix.git
 cd quoted-matrix
 bun install
 cp config.example.yml config.yml   # edit homeserverUrl, userId, accessToken
